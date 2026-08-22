@@ -12,8 +12,6 @@
 
 Hello! 👋 I'm Esteban, a Software Engineering student passionate about building software that solves real-world problems. I enjoy turning ideas into meaningful projects, continuously learning new technologies, and growing through every challenge. Outside of coding, I spend my time playing table tennis, working out at the gym, sharing moments with my couple, friends and family, and always looking for new experiences that help me grow both personally and professionally.
 
-### 📁 Portfolio: https://portafolio-delta-livid.vercel.app/#hero
-
 🔭 &nbsp;I'm currently working on **Building full stack portfolio projects and improving my software architecture skills.**  
 🌱 &nbsp;I'm currently learning **React, Node.js, Python, Docker and software architecture.**  
 👯 &nbsp;I'm looking to collaborate on **Open source projects, full stack applications and innovative software solutions.**  
